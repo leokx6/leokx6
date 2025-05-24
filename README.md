@@ -16,24 +16,4 @@ Welcome to my GitHub profile!
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-
-## 📈 GitHub Stats
-
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-dev&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-dev&layout=compact&theme=radical)
-
-## 🚀 Projects
-
-- 🔍 **Image Segmentation Model** – Exploring medical imaging & instance segmentation.
-- 🤖 **CNN Playground** – A custom-built environment to visualize convolutional layers.
-- 🌐 **React Dashboard** – Interactive UI for AI models with real-time data rendering.
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=github&logoColor=white)](https://your-portfolio.com)
-
----
-
 _Thanks for visiting – let’s build something amazing together!_
