@@ -1,19 +1,26 @@
-# 👋 Hi, I'm Leonardo!
+# Hi, I'm Leonardo
 
-Welcome to my GitHub profile!
+I build AI systems that actually work. I spend my time teaching computers how to see and making models talk to data without hallucinating too much. 
 
-## 🧠 About Me
+I’m a Computer Engineer by training, but a builder by heart.
 
-- 🔭 I’m currently working on Convolutional Neural Networks and image segmentation models.
-- 🌱 I’m diving deeper into deep learning and advanced computer vision techniques.
+---
 
-## 🛠️ Tech Stack
+## What I'm playing with lately
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+* **Computer Vision:** From training CNNs to making sense of images in production. 
+* **Generative AI:** Building RAG pipelines (currently experimenting with **ChromaDB** and document reasoning).
+* **Infrastructure:** Moving things to **AWS** and wrapping everything in **Docker** containers so it "works on my machine" and everywhere else.
+* **Graphs:** I have a thing for Node Embeddings and Graph theory.
 
-_Thanks for visiting – let’s build something amazing together!_
+---
+
+## The Toolbox
+
+**AI / ML:** PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas.
+**DevOps:** AWS, Docker, Linux, Git.
+**Code:** Python (mostly), C++, JS.
+
+---
+
+*“Turning coffee into AI models since 2020.”*
