@@ -14,8 +14,8 @@ I’m a Computer Engineer by training, but a builder by heart.
 
 ## The Toolbox
 
-**AI / ML:** PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas.
-**DevOps:** AWS, Docker, Linux, Git.
-**Code:** Python (mostly), C++, JS.
+* **AI / ML:** PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas.
+* **DevOps:** AWS, Docker, Linux, Git.
+* **Code:** Python (mostly), C++, JS.
 
 *“Turning coffee into AI models since 2020.”*
